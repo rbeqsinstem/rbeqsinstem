@@ -1,3 +1,2 @@
 ### Hello! Welcome to my profile 🌾
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Proggy&pause=1000&color=A0FF0FB3&multiline=true&width=435&lines=My+name+is+Rebeca%2C;I+am+studying+data+science+at+EBAC.;My+objective+is+to+use+this+skill+to+help+the+environment+and+people.)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy&pause=1000&color=A0FF0FB3&multiline=true&width=435&lines=My+name+is+Rebeca%2C;I+am+studying+data+science+at+EBAC.;My+objective+is+to+use+this+skill+to+help+the+environment+and+people." alt="Typing SVG" /></a>
