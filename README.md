@@ -39,6 +39,5 @@ Meu nome é Rebeca Oliveira Cruz, possuo 19 anos e sou carioca. Concluí o ensin
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img width=100% src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBpZDg4cTg0amM2NTZuajU5aTIyZnRwcmZ6eDR6bTQxbngyaHQyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yQltwC4N8nzOE1WdDW/giphy.gif"/> 
+/> 
 
